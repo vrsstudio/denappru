@@ -1,0 +1,306 @@
+[
+    
+   
+ {
+	"name": "Lime-zaim",
+	"age": "21-65",
+    "image_url": "http://zaem-online.kz/img/1552.png",
+    "rating": 5,
+	"sum_to": "70 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,65%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "до 70 000 руб.                                     0% на первый заем",
+	"percent_info": "от 0,34% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/ceb33d5915dab4aab7fa75088b5156c7",
+  	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
+  }
+  ,
+  
+  {
+	"name": "Viva деньги",
+	"age": "18-70",
+    "image_url": "https://domzaymov.ru/img/vivadengi.png",
+    "rating": 4.9,
+	"sum_to": "100 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,34%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "85 000 руб",
+	"percent_info": "от 0,15% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/ff22a6559f5ba90c87adeff65037068b",
+  	"text": "<p><strong>Ё-заем</strong> <br/>Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  }, 
+    
+ 
+ 
+  
+   {
+	"name": "Екапуста",
+	"age": "18-80",
+    "image_url": "http://zaem-online.kz/img/kap.png",
+    "rating": 5.0,
+	"sum_to": "30 000",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0%",
+	"visa": true,
+	"mastercard": true,
+	"mir": true,
+	"qiwi": true,
+	"yandex": true,
+  	"price_info": "До 30 000 руб",
+  	"percent_info": "от 0% в день",
+  	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/db61f9950dd7e875d6b949e7dfc4d448",
+    "text": "<p><strong>Екапуста</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  },
+ 
+ 
+  {
+	"name": "Konga",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/kongads.png",
+    "rating": 4.9,
+	"sum_to": "70 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "70 000 руб",
+	"percent_info": "от 0,5% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/122100d893d55519aaef4baacfcd3ae7",
+  	"text": "<p><strong>Moneza</strong> <br/>Процентная ставка от 0% в день</p>"
+  }
+  
+  
+   ,
+ 
+  {
+	"name": "Creditplus выдача",
+	"age": "18-65",
+    "image_url": "https://domzaymov.ru/img/credplus.png",
+    "rating": 4.9,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,01%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 0,1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/7ac421357b5e4e56f18d91e6c6e89c78",
+  	"text": "<p><strong>Займер</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  },
+  
+ {
+	"name": "Вебзайм",
+	"age": "18-65",
+    "image_url": "https://domzaymov.ru/img/vebzaims.png",
+    "rating": 4.9,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,01%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 0,01%% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/8e2c6d261c515677a90099af0e49a0f7",
+  	"text": "<p><strong>Joymoney</strong> <br/> Для первого займа клиенту доступна сумма до 8 000 руб, при повторном займе возможно увеличение лимита до 30 000 руб. Первый займ под 0%!</p>"
+  },
+  
+ 
+ 
+  {
+	"name": "СмсФинанс",
+	"age": "18-65",
+    "image_url": "https://domzaymov.ru/img/smsfinans.png",
+    "rating": 4.9,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,01%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "60 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/0b966728a4d3306ff72df1121045f4e1",
+  	"text": "<p><strong>МигКредит</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  }
+ 
+ ,
+  
+   
+   {
+	"name": "Webbankir",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/wasbb.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 0% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/d0d9c28479c1c827049cefa057a7719b",
+  	"text": "<p><strong>Webbankir</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  }
+  ,
+ 
+  
+ 
+  
+   {
+	"name": "Turbozaim",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/turbozaimm.png",
+    "rating": 4.9,
+	"sum_to": "50 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "50 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/5819edbba45625c8db301c94b1703d7e",
+  	"text": "<p><strong>Turbozaim</strong> <br/> 1% в день по займам от 3000 до 15000 рублей;</p>"
+  },
+ 
+ {
+	"name": "Надо денег",
+	"age": "18-65",
+    "image_url": "https://domzaymov.ru/img/nadosdeneg.png",
+    "rating": 4.8,
+	"sum_to": "35 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "35 000 руб",
+	"percent_info": "от 0,01% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/8f5b52a194de21cf499ef826197819a5",
+  	"text": "<p><strong>Robotmoney</strong> <br/>Процентная ставка от 1% в день. Возраст заемщика: 18-70. После одобрения займа сообщим, доступно ли снижение процентной ставки</p>"
+  },
+ 
+ 
+ 
+  {
+	"name": "BelkaCredit",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/belka.png",
+    "rating": 4.8,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/2c611b5b034b7b7dda773f25ed45d37f",
+  	"text": "<p><strong>BelkaCredit</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  }
+  
+   ,
+ 
+ 
+ 
+  {
+	"name": "Creditter",
+	"age": "18-70",
+    "image_url": "https://domzaymov.ru/img/creditt.png",
+    "rating": 4.7,
+	"sum_to": "20 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 0,72% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/88258ffb297bea67b767a4a775f66773",
+  	"text": "<p><strong>CreditStar</strong> <br/>Ставка от 0% на первый заем и от 0.72% на повторные займы. Сумма от 1 000 до 30 000</p>"
+  }
+ 
+  
+  ,
+  
+  
+  
+  {
+	"name": "MoneyMan",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/monen.png",
+    "rating": 4.9,
+	"sum_to": "100 000 руб",
+	"term_from": "1",
+	"term_to": "126",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "80 000 руб",
+	"percent_info": "от 0,1% в день",
+	"days_info": "до 260 дней",
+    "url": "https://pxl.leads.su/click/c55e9673768ce57ebd742f68bfaa7a98",
+  	"text": "<p><strong>MoneyMan</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 80 000 руб Первый займ под 0%!</p>"
+  }
+  
+  
+]
