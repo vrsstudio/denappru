@@ -4,7 +4,7 @@
      {
 	"name": "Екапуста",
 	"age": "18-80",
-    "image_url": "http://zaem-online.kz/img/kap.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 5.0,
 	"sum_to": "30 000",
 	"term_from": "1",
@@ -25,7 +25,7 @@
      {
 	"name": "Вебзайм",
 	"age": "18-60",
-    "image_url": "http://zaem-online.kz/img/wewe.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.9,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -47,7 +47,7 @@
  {
 	"name": "Вива деньги",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/vivadengii.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.7,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -68,7 +68,7 @@
     {
 	"name": "Konga",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/kongads.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.7,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -89,7 +89,7 @@
    {
 	"name": "Надо денег",
 	"age": "18-70",
-    "image_url": "http://zaem-online.kz/img/nadodeneg.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.9,
 	"sum_to": "30 000 руб",
 	"term_from": "1",
@@ -111,7 +111,7 @@
    {
 	"name": "Vivus",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/vivu.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.8,
 	"sum_to": "80 000 руб",
 	"term_from": "1",
@@ -133,7 +133,7 @@
    {
 	"name": "Lime-zaim",
 	"age": "21-65",
-    "image_url": "http://zaem-online.kz/img/1552.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 5,
 	"sum_to": "70 000 руб",
 	"term_from": "1",
@@ -155,7 +155,7 @@
 {
 	"name": "Turbozaim",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/turbozaimm.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.7,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -176,7 +176,7 @@
   {
 	"name": "Creditter",
 	"age": "18-70",
-    "image_url": "https://domzaymov.ru/img/creditt.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.9,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -197,7 +197,7 @@
   {
 	"name": "Webbankir",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/wasbb.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.6,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -218,7 +218,7 @@
      {
 	"name": "Надо денег",
 	"age": "18-70",
-    "image_url": "https://domzaymov.ru/img/nadosdeneg.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.8,
 	"sum_to": "30 000 руб",
 	"term_from": "1",
@@ -240,7 +240,7 @@
    {
 	"name": "Zaymigo",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/zami.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.9,
 	"sum_to": "80 000 руб",
 	"term_from": "1",
@@ -261,7 +261,7 @@
    {
 	"name": "До зарплаты",
 	"age": "18-70",
-    "image_url": "https://domzaymov.ru/img/dozarplatu.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4,
 	"sum_to": "30 000 руб",
 	"term_from": "1",
@@ -282,7 +282,7 @@
    {
 	"name": "MoneyMan",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/monen.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.5,
 	"sum_to": "80 000 руб",
 	"term_from": "1",
@@ -303,7 +303,7 @@
    {
 	"name": "Cash U",
 	"age": "18-65",
-    "image_url": "http://zaem-online.kz/img/cash-u.png",
+    "image_url": "https://github.com/vrsstudio/img/blob/main/migcredit.png",
     "rating": 4.7,
 	"sum_to": "80 000 руб",
 	"term_from": "1",
