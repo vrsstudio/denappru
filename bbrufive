@@ -1,7 +1,7 @@
 
 [
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/tinkoffruw.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tinkoffruw.png",
     "company_name": "Т-Банк",
     "company_full": "Т-Банк",
     "loan_amount": "300 000 ₽",
@@ -11,7 +11,7 @@
     "url": "https://www.tbank.ru/loans/cash-loan/"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/vtbmir.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
     "company_name": "Кредитная ‎карта ВТБ",
     "company_full": "Кредитная ‎карта ВТБ",
     "loan_amount": "до 200 000 ₽",
@@ -22,7 +22,7 @@
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logogenbank.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
     "company_name": "ГЕНБАНК",
     "company_full": "ГЕНБАНК",
     "loan_amount": "до 4 000 000 ₽",
