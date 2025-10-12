@@ -1,35 +1,35 @@
 
 [
   {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
-    "company_name": "еКапуста",
-    "company_full": "еКапуста",
-    "loan_amount": "50 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 5 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/tinkoffruw.png",
+    "company_name": "Т-Банк",
+    "company_full": "Т-Банк",
+    "loan_amount": "300 000 ₽",
+    "percent": "от 0,01% в день",
+    "time": "до 15 минут",
     "badge": "Репутация",
-    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=roiks"
+    "url": "https://www.tbank.ru/loans/cash-loan/"
   },
   {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
-    "company_name": "ВебЗайм",
-    "company_full": "ВебЗайм",
-    "loan_amount": "до 50 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 3 минут",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/vtbmir.png",
+    "company_name": "Кредитная ‎карта ВТБ",
+    "company_full": "Кредитная ‎карта ВТБ",
+    "loan_amount": "до 200 000 ₽",
+    "percent": "от 0,1% в день",
+    "time": "до 7 минут",
     "badge": "Безопасно, быстро, удобно",
-    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=roiks"
+    "url": "https://www.vtb.ru/personal/karty/kreditnye/vozmozhnosti/"
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
-    "company_name": "Лайм Займ",
-    "company_full": "Лайм Займ",
-    "loan_amount": "до 100 000 ₽",
-    "percent": "от 0% в день",
+    "logo": "https://raw.githubusercontent.com/alexofyou/images/main/logogenbank.png",
+    "company_name": "ГЕНБАНК",
+    "company_full": "ГЕНБАНК",
+    "loan_amount": "до 4 000 000 ₽",
+    "percent": "от 1,2% в день",
     "time": "до 25 минут",
     "badge": "Проверено временем",
-    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=roiks"
+    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
   }
 
 ]
