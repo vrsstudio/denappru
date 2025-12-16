@@ -2,7 +2,7 @@
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-      "name": "Soscredit",
+      "name": "Т‑Банк",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
@@ -30,7 +30,7 @@
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
-      "name": "Evros",
+      "name": "Банк ВТБ",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
@@ -58,7 +58,7 @@
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
-      "name": "Milian",
+      "name": "Совкомбанк",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
