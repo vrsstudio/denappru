@@ -1,33 +1,33 @@
 [
   {
-	"name": "Banco Santander",
-	"price_info": "От 3% До 500 000 eur",
+	"name": "Creditio card",
+	"price_info": "От 1% До 20 000 eur",
     "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "200 - 30 000",
+    "sum": "200 - 10 000",
 	"term": "5 - 100",
-	"percent": "0,01% - 0,15%",
-    "url": "https://www.bancosantander.es/particulares/tarjetas/credito/tarjeta-credito/",
+	"percent": "0,01% - 0,05%",
+    "url": "https://tds.pdl-profit.com/h/1rfe68ac427457bf2",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "BBVA TDC",
-	"price_info": "От 5% До 300 000 eur",
+	"name": "Instadinero",
+	"price_info": "От 1% До 75 000 eur",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "1000 - 12 000",
+    "sum": "1000 - 75 000",
 	"term": "5 - 100",
-	"percent": "0,02% - 1,5%",
-    "url": "https://www.bbva.es/personas/productos/tarjetas/tarjeta-credito-aqua.html",
+	"percent": "0,02% - 0,5%",
+    "url": "https://tds.pdl-profit.com/h/1rdq68ac4106a8db2",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "CaixaBank",
-	"price_info": "От 5% До 300 000 eur",
+	"name": "QueBueno",
+	"price_info": "От 1% До 7 000 eur",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "1000 - 300 000",
+    "sum": "1000 - 7 000",
 	"term": "5 - 100",
-	"percent": "0,01% - 0,25%",
-    "url": "https://www.caixabank.es/particular/tarjetas/mycard.html",
+	"percent": "0,01% - 0,05%",
+    "url": "https://tds.pdl-profit.com/h/1rem68adcac2eb0d1",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
