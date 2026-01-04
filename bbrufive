@@ -1,45 +1,119 @@
-
 [
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
-    "company_name": "Альфа-Банк",
-    "company_full": "Альфа-Банк",
-    "loan_amount": "15 000 000 ₽",
-    "percent": "от 0,01% в день",
+ {
+
+    "badge": "0% переплаты первый месяц",
+ "company_name": "Joymoney",
+    "company_full": "Joymoney",
+"percent": "от 0,01% в день",
     "time": "до 15 минут",
-    "badge": "Проверено временем",
-    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
-  },
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+"loan_amount": "от 3 000 до 100 000 руб",
+"url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=diorsz"
+},
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tinkoffruw.png",
-    "company_name": "Т-Банк",
-    "company_full": "Т-Банк",
-    "loan_amount": "7 000 000 ₽",
-    "percent": "от 0,01% в день",
+    
+    "badge": "Деньги без процентов",
+ "company_name": "ВебЗайм",
+    "company_full": "ВебЗайм",
+"percent": "от 0,1% в день",
+    "time": "до 25 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
+
+"loan_amount": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=diorsz"
+},
+{
+
+"badge": "Быстрое решение",
+ "company_name": "Max.Credit",
+    "company_full": "Max.Credit",
+"percent": "от 0,01% в день",
+    "time": "до 10 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
+
+"loan_amount": "от 1 000 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=diorsz"
+},
+ {
+    "badge": "Деньги уже сегодня",
+ "company_name": "еКапуста",
+    "company_full": "еКапуста",
+"percent": "от 0,01% в день",
     "time": "до 15 минут",
-    "badge": "Репутация",
-    "url": "https://www.tbank.ru/loans/cash-loan/"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
-    "company_name": "Кредитная ‎карта ВТБ",
-    "company_full": "Кредитная ‎карта ВТБ",
-    "loan_amount": "до 200 000 ₽",
-    "percent": "от 0,1% в день",
-    "time": "до 7 минут",
-    "badge": "Безопасно, быстро, удобно",
-    "url": "https://www.vtb.ru/personal/karty/kreditnye/vozmozhnosti/"
-  },
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+
+"loan_amount": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=diorsz"
+},
+ {
+    "badge": "Деньги без ожидания",
+ "company_name": "До зарплаты",
+    "company_full": "До зарплаты",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+           "loan_amount": "от 2000 до 100 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
+    },
+ {
+    "badge": "0% переплаты первый месяц",
+ "company_name": "Быстроденьги",
+    "company_full": "Быстроденьги",
+"percent": "от 0,01% в день",
+    "time": "до 25 минут",
+             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+           "loan_amount": "от 100 до 15 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
+    },
+
+
+
+ {
+"badge": "0% переплаты первый месяц",
+ "company_name": "Турбозайм",
+    "company_full": "Турбозайм",
+"percent": "от 0,1% в день",
+    "time": "до 20 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
+
+"loan_amount": "от 3 000 до 50 000 руб",
+
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=diorsz"
+}
+
+,
+
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
-    "company_name": "ГЕНБАНК",
-    "company_full": "ГЕНБАНК",
-    "loan_amount": "до 4 000 000 ₽",
-    "percent": "от 1,2% в день",
-    "time": "до 25 минут",
-    "badge": "Проверено временем",
-    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
-  }
+"badge": "0% переплаты первый месяц",
+ "company_name": "Срочно деньги",
+    "company_full": "Срочно деньги",
+"percent": "от 0,1% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+
+"loan_amount": "от 1 000 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=diorsz&erid=2W5zFJkUBEY"
+},
+
+
+
+{
+"badge": "0% переплаты первый месяц",
+ "company_name": "VIVA Деньги",
+    "company_full": "VIVA Деньги",
+"percent": "от 0,1% в день",
+    "time": "до 35 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",   
+
+"loan_amount": "от 1 000 до 100 000 руб",
+
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=diorsz"
+}
 
 ]
