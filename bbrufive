@@ -1,4 +1,16 @@
 [
+
+ {
+    "badge": "0% переплаты первый месяц",
+ "company_name": "Быстроденьги",
+    "company_full": "Быстроденьги",
+"percent": "от 0,01% в день",
+    "time": "до 25 минут",
+             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+           "loan_amount": "от 100 до 15 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
+    },
+
  {
 
     "badge": "0% переплаты первый месяц",
@@ -24,6 +36,82 @@
  "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=diorsz"
 },
 {
+    "badge": "Деньги уже сегодня",
+ "company_name": "еКапуста",
+    "company_full": "еКапуста",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+
+"loan_amount": "от 100 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=diorsz"
+},
+
+
+
+
+{
+"badge": "Деньги без задержек",
+ "company_name": "Займер",
+    "company_full": "Займер",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",   
+
+"loan_amount": "от 2 000 до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/e9fa0f069aa9d79c8b557a038d0a28e2?aff_sub1=diorsz&erid=2W5zFGRgkqW"
+},
+
+
+
+{
+"badge": "Без скрытых комиссий",
+ "company_name": "Деньги Сразу",
+    "company_full": "Деньги Сразу",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",   
+
+"loan_amount": "от 1 000 до 100 000 руб",
+
+ "url": "https://pxl.leads.su/click/49b6f59570becd0c9d9a772afb1302ad?aff_sub1=diorsz&erid=2W5zFGDsBp4"
+},
+
+
+
+
+{
+    "badge": "Деньги без ожидания",
+ "company_name": "До зарплаты",
+    "company_full": "До зарплаты",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+           "loan_amount": "от 2000 до 100 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
+    },
+
+
+
+{
+"badge": "Без скрытых комиссий",
+ "company_name": "Срочно деньги",
+    "company_full": "Срочно деньги",
+"percent": "от 0,1% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+
+"loan_amount": "от 1 000 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=diorsz&erid=2W5zFJkUBEY"
+},
+
+
+
+{
 
 "badge": "Быстрое решение",
  "company_name": "Max.Credit",
@@ -36,41 +124,7 @@
 
  "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=diorsz"
 },
- {
-    "badge": "Деньги уже сегодня",
- "company_name": "еКапуста",
-    "company_full": "еКапуста",
-"percent": "от 0,01% в день",
-    "time": "до 15 минут",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
-
-"loan_amount": "от 100 до 30 000 руб",
-
- "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=diorsz"
-},
- {
-    "badge": "Деньги без ожидания",
- "company_name": "До зарплаты",
-    "company_full": "До зарплаты",
-"percent": "от 0,01% в день",
-    "time": "до 15 минут",
-
-  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-           "loan_amount": "от 2000 до 100 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
-    },
- {
-    "badge": "0% переплаты первый месяц",
- "company_name": "Быстроденьги",
-    "company_full": "Быстроденьги",
-"percent": "от 0,01% в день",
-    "time": "до 25 минут",
-             "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-           "loan_amount": "от 100 до 15 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
-    },
-
-
+ 
 
  {
 "badge": "0% переплаты первый месяц",
@@ -89,31 +143,87 @@
 
 
 {
-"badge": "0% переплаты первый месяц",
- "company_name": "Срочно деньги",
-    "company_full": "Срочно деньги",
-"percent": "от 0,1% в день",
+"badge": "Первый месяц бесплатно",
+ "company_name": "fin5",
+    "company_full": "fin5",
+"percent": "от 0,01% в день",
     "time": "до 15 минут",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
 
-"loan_amount": "от 1 000 до 30 000 руб",
+"loan_amount": "от 3 000 до 30 000 руб",
 
- "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=diorsz&erid=2W5zFJkUBEY"
-},
+ "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=diorsz&erid=2W5zFHMCfMi"
+}
+,
+
+
+
 
 
 
 {
-"badge": "0% переплаты первый месяц",
- "company_name": "VIVA Деньги",
-    "company_full": "VIVA Деньги",
+"badge": "Надёжный сервис",
+ "company_name": "Лайм Займ",
+    "company_full": "Лайм Займ",
 "percent": "от 0,1% в день",
     "time": "до 35 минут",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",   
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",   
 
-"loan_amount": "от 1 000 до 100 000 руб",
+"loan_amount": "от 4 000 до 100 000 руб",
 
- "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=diorsz"
+ "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=diorsz"
 }
+
+
+
+,
+{
+"badge": "Онлайн за 15 минут",
+ "company_name": "Moneyman",
+    "company_full": "Moneyman",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",   
+
+"loan_amount": "от 4 000 до 100 000 руб",
+
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=diorsz"
+}
+
+
+
+,
+{
+"badge": "Просто и понятно",
+ "company_name": "Webbankir",
+    "company_full": "Webbankir",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",   
+
+"loan_amount": "от 3 000 до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=diorsz&erid=2W5zFHHkYTA"
+}
+
+
+,
+
+{
+"badge": "Честные условия",
+ "company_name": "boostra",
+    "company_full": "boostra",
+"percent": "от 0,01% в день",
+    "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",   
+
+"loan_amount": "от 3 000 до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=diorsz&erid=2W5zFHyoEoJ"
+}
+
+
+
+
 
 ]
