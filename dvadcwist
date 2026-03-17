@@ -1,0 +1,52 @@
+[
+  {
+  
+    "company_name": "Т-Банк",
+    "text": "Лучшие условия",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+    "rating": 5,
+    "sum_one": "до 4 000 000 руб.",
+    "days_info": "",
+    "percent": "0%",
+    "phone": "C 8 (800) 600-88-91",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "badge": "Первый займ бесплатно при своевременном возврате; моментальная выдача на карту 2...",
+    "url": "https://www.tbank.ru/loans/cash-loan/"
+  },
+  {
+  
+    "company_name": "ВТБ",
+    "text": "Первий - без отказов!",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+    "rating": 5,
+    "sum_one": "до 30 000 руб.",
+    "days_info": "",
+    "percent": "0%",
+    "phone": "6 8 (800) 707-02-47",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "button_text": "Оформить",
+    "badge": "",
+    "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+  },
+  
+  {
+
+    "company_name": "Альфа-Банк",
+    "text": "",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/AlfBank.png",
+    "rating": 5,
+    "sum_one": "до 3 400 000 руб.",
+    "days_info": "Рассмотрение до 15 мин",
+    "percent": "1%",
+    "phone": "6 8 (800) 707-02-47",
+    "license": "Nº2503322010150",
+    "approval_rate": "",
+    "time": "",
+    "badge": "Первый займ под 0% при оформлении на минимальный срок и своевременном пога...",
+    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+  }
+]
