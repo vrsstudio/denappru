@@ -1,52 +1,239 @@
 [
-  {
   
-    "company_name": "Т-Банк",
-    "text": "Лучшие условия",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-    "rating": 5,
-    "sum_one": "до 4 000 000 руб.",
+ {
+"company_name": "Быстроденьги",
     "days_info": "",
-    "percent": "0%",
-    "phone": "C 8 (800) 600-88-91",
-    "license": "Nº2503322010150",
-    "approval_rate": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
     "time": "",
-    "badge": "Первый займ бесплатно при своевременном возврате; моментальная выдача на карту 2...",
-    "url": "https://www.tbank.ru/loans/cash-loan/"
-  },
-  {
-  
-    "company_name": "ВТБ",
-    "text": "Первий - без отказов!",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "badge": "Первый месяц без процентов",
     "rating": 5,
-    "sum_one": "до 3 000 000 руб.",
-    "days_info": "",
-    "percent": "0%",
-    "phone": "6 8 (800) 707-02-47",
-    "license": "Nº2503322010150",
-    "approval_rate": "",
-    "time": "",
-    "button_text": "Оформить",
-    "badge": "",
-    "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=zaberyzp"
   },
-  
-  {
 
-    "company_name": "Альфа-Банк",
-    "text": "",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/AlfBank.png",
-    "rating": 5,
-    "sum_one": "до 3 400 000 руб.",
-    "days_info": "Рассмотрение до 15 мин",
-    "percent": "1%",
-    "phone": "6 8 (800) 707-02-47",
-    "license": "Nº2503322010150",
-    "approval_rate": "",
+
+  {
+"company_name": "До Зарплаты",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
     "time": "",
-    "badge": "Первый займ под 0% при оформлении на минимальный срок и своевременном пога...",
-    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+    "badge": "Мгновенный заём без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 100 000 руб",
+   
+    "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=zaberyzp"
+  },
+
+
+
+
+  
+  {
+"company_name": "Юкки",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",
+    "badge": "Деньги без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=zaberyzp&erid=2W5zFJ1PVgm"
+  },
+
+
+  
+  {
+"company_name": "boostra",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
+    "badge": "Деньги без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 50 000 руб",
+   
+    "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=zaberyzp&erid=2W5zFHyoEoJ"
+  },
+
+
+
+
+
+  {
+"company_name": "MoneyMan VIP",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "badge": "Ноль процентов.",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 80 000 руб",
+   
+    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=zaberyzp"
+  },
+
+
+
+  {
+"company_name": "еКапуста",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "badge": "Деньги без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=zaberyzp"
+  },
+
+
+
+  {
+"company_name": "еКапуста",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "badge": "Деньги без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=zaberyzp"
+  },
+
+
+
+
+  {
+"company_name": "Вебзайм",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+    "badge": "Заём без процентов",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=zaberyzp"
+  },
+
+
+
+
+
+
+
+  {
+"company_name": "Joymoney",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
+    "badge": "0% переплаты первый месяц",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 100 000 руб",
+   
+    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=zaberyzp"
+  },
+
+
+
+  {
+"company_name": "Fin5",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+    "badge": "0% переплаты первый месяц",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=zaberyzp&erid=2W5zFHMCfMi"
+  },
+
+
+
+
+  {
+"company_name": "СрочноДеньги",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",
+    "badge": "0% переплаты первый месяц",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=zaberyzp&erid=2W5zFJkUBEY"
+  },
+
+  {
+"company_name": "Займер VIP",
+    "days_info": "",
+   "license": "Nº2503322010150",
+  "text": "",
+"phone": "6 8 (800) 707-02-47",
+  "approval_rate": "",
+    "time": "",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
+    "badge": "0% переплаты первый месяц",
+    "rating": 5,
+ "percent": "0%",
+    "sum_one": "от 1 000 до 30 000 руб",
+   
+    "url": "https://pxl.leads.su/click/e9fa0f069aa9d79c8b557a038d0a28e2?aff_sub1=zaberyzp&erid=2W5zFGRgkqW"
   }
+
+
+
+
 ]
