@@ -2,10 +2,20 @@
  {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",   
  "time":"до 15 минут",
-"sum_one": "от 3 000 до 15 000 руб",
+"sum_one": "от 3 000 до 20 000 руб",
 "age": "От 18 лет",
  "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=brt"
 }
+
+,
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
+ "time":"до 25 минут",
+"sum_one": "от 3 000 до 50 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=brt"
+}
+
 ,
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
@@ -17,12 +27,13 @@
 ,
 
  {
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",   
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",   
  "time":"до 15 минут",
-"sum_one": "от 1 000 до 50 000 руб",
+"sum_one": "от 1 000 до 100 000 руб",
 "age": "От 18 лет",
- "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=brt&erid=2W5zFHyoEoJ"
+ "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=brt"
 },
+
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",   
  "time":"до 15 минут",
@@ -31,13 +42,6 @@
  "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=brt"
 },
 
- {
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",   
- "time":"до 15 минут",
-"sum_one": "от 1 000 до 100 000 руб",
-"age": "От 18 лет",
- "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=brt"
-},
 
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",   
@@ -74,15 +78,28 @@
 "sum_one": "от 1 000 до 30 000 руб",
 "age": "От 18 лет",
  "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=brt&erid=2W5zFHHkYTA"
-},
-{
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
- "time":"до 25 минут",
-"sum_one": "от 3 000 до 50 000 руб",
-"age": "От 18 лет",
- "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=brt"
 }
 
-    
+
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
+ "time":"до 15 минут",
+"sum_one": "от 1 000 до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=brt&erid=2W5zFHMCfMi"
+}
+
+
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",   
+ "time":"до 15 минут",
+"sum_one": "от 1 000 до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=brt&erid=2W5zFJ1PVgm"
+}
 
 ]
