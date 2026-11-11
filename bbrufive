@@ -1,5 +1,22 @@
 [
 
+{
+    "badge": "Деньги без ожидания",
+ "company_name": "Займер",
+    "company_full": "Займер",
+"percent": "от 0% в день",
+    "time": "до 15 минут",
+
+  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
+           "loan_amount": "до 33 000 руб",
+         "url": "https://go.leadgid.ru/click/a5c56e1c-f18f-4be4-b042-ba6805094ab6?p=adnetwork&aff_sub=diorsz"
+    },
+
+
+
+
+
+
  {
     "badge": "0% переплаты первый месяц",
  "company_name": "Быстроденьги",
@@ -8,21 +25,23 @@
     "time": "до 25 минут",
              "logo": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
            "loan_amount": "до 20 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=diorsz"
+         "url": "https://go.leadgid.ru/click/806cdaf9-8e6b-494e-beca-2698c58158fe?p=adnetwork&aff_sub=diorsz"
     },
 
 
 {
-    "badge": "Деньги без ожидания",
- "company_name": "До зарплаты",
-    "company_full": "До зарплаты",
+"badge": "Первый месяц бесплатно",
+ "company_name": "fin5",
+    "company_full": "fin5",
 "percent": "от 0,01% в день",
     "time": "до 15 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
 
-  "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
-           "loan_amount": "до 30 000 руб",
-         "url": "https://trackfox.ru/click/542495b89c808bf6423f2d1c74a910a0?aff_sub1=diorsz"
-    },
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://go.leadgid.ru/click/10aa87d8-41ac-43c7-86de-a65c4cb4d237?p=adnetwork&aff_sub=diorsz"
+}
+,
 
 
 {
@@ -35,8 +54,47 @@
 
 "loan_amount": "до 100 000 руб",
 
- "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=diorsz"
+ "url": "https://go.leadgid.ru/click/da61eaff-48f5-4203-a9b7-a9a55e13b328?p=adnetwork&aff_sub=diorsz"
 },
+
+
+
+
+
+{
+
+"badge": "Быстрое решение",
+ "company_name": "Max.Credit",
+    "company_full": "Max.Credit",
+"percent": "от 0,01% в день",
+    "time": "до 10 минут",
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=diorsz"
+},
+ 
+
+{
+
+"badge": "Быстрое решение",
+ "company_name": "Юкки",
+    "company_full": "Юкки",
+"percent": "от 0,01% в день",
+    "time": "до 10 минут",
+"logo": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",   
+
+"loan_amount": "до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=diorsz&erid=2W5zFJ1PVgm"
+},
+ 
+
+
+
+
+
 
 {
     "badge": "Деньги без ожидания",
@@ -61,7 +119,7 @@
 
 "loan_amount": "до 50 000 руб",
 
- "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=diorsz"
+ "url": "https://go.leadgid.ru/click/89c19133-0550-43c2-bdcd-bbaa53d06187?p=adnetwork&aff_sub=diorsz"
 }
 
 ,
@@ -141,49 +199,6 @@
  "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=diorsz"
 },
 
-
-
-
-
-
-
-{
-"badge": "Первый месяц бесплатно",
- "company_name": "fin5",
-    "company_full": "fin5",
-"percent": "от 0,01% в день",
-    "time": "до 15 минут",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
-
-"loan_amount": "до 30 000 руб",
-
- "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=diorsz&erid=2W5zFHMCfMi"
-}
-,
-
-
-
-
-
-
-
-
-
-{
-
-"badge": "Быстрое решение",
- "company_name": "Max.Credit",
-    "company_full": "Max.Credit",
-"percent": "от 0,01% в день",
-    "time": "до 10 минут",
-"logo": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
-
-"loan_amount": "до 30 000 руб",
-
- "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=diorsz"
-},
- 
-
 {
 "badge": "Без скрытых комиссий",
  "company_name": "Срочно деньги",
@@ -196,11 +211,6 @@
 
  "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=diorsz&erid=2W5zFJkUBEY"
 },
-
-
-
-
-
  {
 "badge": "0% переплаты первый месяц",
  "company_name": "Турбозайм",
@@ -213,12 +223,7 @@
 
  "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=diorsz"
 }
-
 ,
-
-
-
-
 {
 "badge": "Просто и понятно",
  "company_name": "Webbankir",
@@ -231,10 +236,7 @@
 
  "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=diorsz&erid=2W5zFHHkYTA"
 }
-
-
 ,
-
 {
 "badge": "Честные условия",
  "company_name": "boostra",
@@ -247,18 +249,4 @@
 
  "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=diorsz&erid=2W5zFHyoEoJ"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
