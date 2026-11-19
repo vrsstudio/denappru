@@ -8,8 +8,8 @@
     "time": "до 15 минут",
 
   "logo": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
-           "loan_amount": "до 33 000 руб",
-         "url": "https://go.leadgid.ru/click/a5c56e1c-f18f-4be4-b042-ba6805094ab6?p=adnetwork&aff_sub=diorsz"
+           "loan_amount": "до 35 000 руб",
+         "url": "https://go.leadgid.ru/click/76c9646b-6574-4d42-a17c-41491a0c27bb?p=adnetwork&aff_sub=diorsz"
     },
 
 
@@ -199,6 +199,18 @@
  "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=diorsz"
 },
 
+
+
+
+
+
+
+
+
+
+
+
+
 {
 "badge": "Без скрытых комиссий",
  "company_name": "Срочно деньги",
@@ -211,6 +223,11 @@
 
  "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=diorsz&erid=2W5zFJkUBEY"
 },
+
+
+
+
+
  {
 "badge": "0% переплаты первый месяц",
  "company_name": "Турбозайм",
@@ -223,7 +240,12 @@
 
  "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=diorsz"
 }
+
 ,
+
+
+
+
 {
 "badge": "Просто и понятно",
  "company_name": "Webbankir",
@@ -249,4 +271,5 @@
 
  "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=diorsz&erid=2W5zFHyoEoJ"
 }
+
 ]
